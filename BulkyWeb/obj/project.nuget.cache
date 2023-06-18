@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8MNQNt3RvLORntVz8C9WrIiwQId7pA4Z2UJcDDtRkvV5JlY+5GZtQI/MP34hdU+XHVqxG8Uk1k7XbB0pMg/Igg==",
+  "success": true,
+  "projectFilePath": "/Users/anthonysuarez/Documents/Source/Bulky/BulkyWeb/BulkyWeb.csproj",
+  "expectedPackageFiles": [
+    "/Users/anthonysuarez/.nuget/packages/microsoft.build.tasks.git/1.1.1/microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "/Users/anthonysuarez/.nuget/packages/microsoft.sourcelink.common/1.1.1/microsoft.sourcelink.common.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
